@@ -1,0 +1,103 @@
+.content{
+    width: 650px;
+    margin: 0 auto;
+}
+
+.input-canvas-container > *{
+    display: block;
+}
+#input-canvas{
+    border: #323441 2px solid;
+    margin: 0 auto;
+}
+
+#feed-image{
+    border: #323441 2px solid;
+    margin: 0 auto;
+    margin-top: 33px;
+    margin-left: 20px;
+}
+
+.feed-image-wrapper .dimensions {
+    margin-left: 15px;
+}
+
+.content > *{
+    display: block;
+}
+.controls {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.controls .button{
+    display: inline;
+}
+.feed-image-container > *{
+    display: block;
+}
+.feed-image-wrapper {
+    margin-top: 30px; 
+}
+.feed-image-wrapper .dimensions{
+    display: block;
+}
+
+.layers-container {
+    overflow: auto;
+    padding-left: 30px;
+}
+.layers-container > *{
+    display: inline;
+    float: left;
+    margin: 5px 10px;
+}
+.layers {
+    display: inline;
+}
+.layers .layer-block {
+    display: block;
+    background: black;
+    min-width: 25px;
+    min-height: 60px;
+}
+
+.output-block{
+    border: #323441 2px solid;
+    width: 28px;
+    height: 28px;
+    text-align: center;
+    line-height: 28px;
+    margin: 15px auto;
+    margin-top: 43px;
+}
+
+.output-block.has-output{
+    background-color: rgba(219, 181, 36, 0.4);
+}
+
+.title {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.layer-block{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.dimensions{
+    display: block;
+}
+
+
+.label{
+    font-size: 18px;
+    line-height: 45px;
+    text-align:center;
+}
+
+.direction-arrow {
+    margin-top: 75px;
+}
